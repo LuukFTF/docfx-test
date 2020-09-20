@@ -44,7 +44,7 @@
         ],
         "exclude": [
           "obj/**",
-          "docs/**"
+          "_site/**"
         ]
       }
     ],
@@ -60,5 +60,9 @@
     "keepFileLink": false,
     "cleanupCacheHistory": false,
     "disableGitFeatures": false
-  }
+  },
+  "template": [
+      "default",
+      "templates/darkfx"
+  ]
 }
