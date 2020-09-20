@@ -52,7 +52,6 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default",
       "templates/darkfx"
     ],
     "postProcessors": [],
