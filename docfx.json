@@ -52,7 +52,8 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+      "templates/darkfx"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
@@ -60,9 +61,5 @@
     "keepFileLink": false,
     "cleanupCacheHistory": false,
     "disableGitFeatures": false
-  },
-  "template": [
-      "default",
-      "templates/darkfx"
-  ]
+  }
 }
